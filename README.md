@@ -8,7 +8,7 @@
 
 ## 🧑‍🎓 About Me
 
-* 🎓 **학부생** / 건양대학교 메디컬인공지능학과 (3학년)
+* 🎓 **학부생** / 건양대학교 메디컬 인공지능학과 (3학년)
 * 🔬 **주요 관심 분야**: Deep Learning, Computer Vision, Medical AI, Natural Language Processing
 * ✏️ **동아리**
   * [건양대학교 인공지능학과] MAINIX 동아리 (2026.03 ~ ing)
