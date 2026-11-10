@@ -37,6 +37,11 @@
 
 ---
 
+# 🏆 Awards & Honors
+- 🥇 **Global Exchange Project DISCOVER WORLD** | 대상
+
+---
+
 ## 🌍 대외활동
 
 * **[쿠팡풀필먼트서비스]** 쿠팡 물류로봇 경진대회 (2026.06.03 ~ 2026.06.05)
